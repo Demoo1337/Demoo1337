@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Demoo</h1>
-<h3 align="center">C++ developer and Assembly enjoyer</h3>
+<h3 align="center">Software and Website Dev</h3>
 
 <p align="left">
 </p>
